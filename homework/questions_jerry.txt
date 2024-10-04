@@ -1,11 +1,11 @@
 1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal in?
-
+cp copies the file, mv moves the file somewhere, cd gets you in and out of directories, and git clone clones the repository. My Windows terminal is in Powershell.
 2. Do you have pets? What kind?
-
+I have no pets :(
 3. If you run across an error, what would your first course of action be?
-
+I would first shut down my computer, take a 10 minute break, then prepare for my 8 hour debugging session.
 4. Funniest thing that happened to you in high school.
-
+Somebody AirDropped everyone questionable memes during a school rally. 
 5. What is a python script? (Keep it simple)
-
+A file that contains a set of instructions for the Python language to read and then for the computer to run.
 
